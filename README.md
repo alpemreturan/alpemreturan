@@ -1,6 +1,6 @@
 ## **Hi I'm Emre**👋
 # 💫 About Me:
-emre as dev
+EMRE AS DEV
 
 
 ## 🌐 Socials:
