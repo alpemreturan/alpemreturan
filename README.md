@@ -1,6 +1,6 @@
 ## **Hello World!, I'm Emre, a Full-Stack Developer**👋
 # 💫 EMRE AS DEV:
-
+![hacking](https://github.com/user-attachments/assets/3d79f54d-ffed-4d62-8960-3ae20c55b6a2)
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/n.ko._.) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/emre-turan-993286296) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCqzVxt1IRphqdrfVrXlFCQw) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alp.turan1841@gmail.com) 
 
@@ -9,6 +9,7 @@
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=alpemreturan&theme=ambient_gradient&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alpemreturan&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
