@@ -1,4 +1,4 @@
-## **Hi!, I'm Emre, a Full-Stack Developer**👋
+## **Hi! I'm Emre, a Full-Stack Developer**👋
 # 💫 EMRE AS DEV:
 ![hacking](https://github.com/user-attachments/assets/3d79f54d-ffed-4d62-8960-3ae20c55b6a2)
 ## 🌐 Socials:
